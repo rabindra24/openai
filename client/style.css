@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600;700&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.gradient{
+    background: linear-gradient(90deg, hsla(356, 60%, 53%, 1) 0%, hsla(313, 60%, 33%, 1) 100%);
+}
+
+.gradient2{
+    background: linear-gradient(90deg, hsla(324, 91%, 46%, 1) 0%, hsla(18, 100%, 49%, 1) 100%);
+}
+
+.gradient3{
+    background: linear-gradient(90deg, hsla(358, 85%, 68%, 1) 0%, hsla(41, 98%, 49%, 1) 100%);
+}
+
+.gradient4{
+    background: linear-gradient(90deg, hsla(280, 84%, 41%, 1) 0%, hsla(218, 97%, 56%, 1) 100%);
+}
+
+.gradient5{
+    background: linear-gradient(90deg, hsla(50, 90%, 88%, 1) 0%, hsla(335, 93%, 68%, 1) 50%, hsla(252, 89%, 78%, 1) 100%);
+}
